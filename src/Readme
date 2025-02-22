@@ -1,0 +1,7 @@
+Responde a las siguientes preguntas:
+
+¿De qué tipo genera en la lista por defecto el compilador?
+
+¿Qué está ocurriendo en este ejemplo con respecto a lo que hemos visto del polimorfismo de la herencia?
+
+¿Qué pasaría si creáramos la lista con listOf<Ordenador>? ¿Y si la hiciéramos con listOf<Any>?
